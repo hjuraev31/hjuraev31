@@ -19,15 +19,16 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture>Tools that I use
 
 <p align="center">
-	<a href=""><img img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/python.png?raw=true" width="70px" alt="python"/>&emsp;&emsp;&emsp;
-	<a href=""><img img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/sql.png?raw=true" width="70px" alt="sql"/></a>&emsp;&emsp;&emsp;
-	<a href=""><img img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/pgsql.png?raw=true" width="70px" alt="pgsql"/></a>&emsp;&emsp;&emsp;
-	<a href=""><img img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/pandas.png?raw=true" width="70px" alt="pandas"/></a>&emsp;&emsp;&emsp;
+	<a href=""><img img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/python.png?raw=true" width="80px" alt="python"/>&emsp;&emsp;&emsp;
+	<a href=""><img img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/sql.png?raw=false" width="70px" alt="sql"/></a>&emsp;&emsp;&emsp;
+	<a href=""><img img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/pgsql.png?raw=false" width="70px" alt="pgsql"/></a>&emsp;&emsp;&emsp;
+	<a href=""><img img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/pandas.png?raw=true" width="80px" alt="pandas"/></a>&emsp;&emsp;&emsp;
 </p>
 <p align="center">
-	<a href=""><img img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/numpy.png?raw=true" width="70px" alt="numpy"/>&emsp;&emsp;&emsp;
-	<a href=""><img img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/matplotlib.png?raw=true" width="70px" alt="matplotlib"/></a>&emsp;&emsp;&emsp;
-	<a href=""><img img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/tableau.png?raw=true" width="70px" alt="tableau"/></a>&emsp;&emsp;&emsp;
+	<a href=""><img img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/numpy.png?raw=true" width="80px" alt="numpy"/>&emsp;&emsp;&emsp;
+	<a href=""><img img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/matplotlib.png?raw=true" width="80px" alt="matplotlib"/></a>&emsp;&emsp;&emsp;
+	<a href=""><img img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/tableau.png?raw=true" width="80px" alt="tableau"/></a>&emsp;&emsp;&emsp;
+	<a href=""><img img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/mssql.svg?raw=true" width="80px" alt="tableau"/></a>&emsp;&emsp;&emsp;
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
