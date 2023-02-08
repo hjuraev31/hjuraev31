@@ -99,6 +99,9 @@
 	<a href="https://github.com/hjuraev31/store_management">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=hjuraev31&repo=store_management&theme=tokyonight" alt="GitHub Stats" />
     	</a>
+	<a href="https://github.com/hjuraev31/loan_prediction">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=hjuraev31&repo=loan_prediction&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
 	
   </p>
 </div>
