@@ -16,7 +16,7 @@
 <br>
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture>Tools that I use
+## <picture> <img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/hw.gif?raw=true" width=40> </picture>Tools that I use
 
 <p align="center">
 	<a href=""><img img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/python.png?raw=true" width="80px" alt="python"/>&emsp;&emsp;&emsp;
