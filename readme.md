@@ -2,18 +2,17 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+analyst;Data+scientist;Data+engineer;Digital+Economy+Student;Always+learning+new+things"></a>
 </p>
-<div style="display: flex;align-items:center;">
-<img src = "https://github.com/hjuraev31/hjuraev31/blob/main/src/about_pre.gif?raw=true" width = 50px>
-	<span>About me</span> 
-</div>
+
+## <picture><img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/about_pre.gif?raw=true" width = 50px></picture>About me
+	
 <picture> <img align="right" src="https://github.com/hjuraev31/hjuraev31/blob/main/src/ds.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
-- :school: Student at [TUIT](https://tuit.uz) Faculty of Digital Economy.
-- :computer::chart_with_upwards_trend: I like solving problems with data.
-- :nerd_face: Always `learning new things`.
-- :page_with_curl: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :school: Student at [TUIT](https://tuit.uz) Faculty of Digital Economy.<span><p></p></span>
+- :computer::chart_with_upwards_trend: I like solving problems with data.<span><p></p></span>
+- :nerd_face: Always `learning new things`.<span><p></p></span>
+- :page_with_curl: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/hjuraev31/hjuraev31/src/ds.gif).
 <br>
 
 
