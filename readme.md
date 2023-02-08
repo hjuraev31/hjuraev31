@@ -106,6 +106,7 @@
 
 </br>	
 ## Just a brief example of the data architecture
+
 <p align = "center">
 	<img src = "https://github.com/hjuraev31/hjuraev31/blob/main/src/etl.gif?raw=true" alt = "etl example"/>
 </p>
