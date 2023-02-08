@@ -104,7 +104,8 @@
 </div>
 </details>
 
-</br>	
+</br>
+
 ## Just a brief example of the data architecture
 
 <p align = "center">
