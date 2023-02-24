@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Khusniddin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%64e6f5&size=36&center=true&vCenter=true&width=600&height=100&lines=Data+analyst;Data+scientist;Digital+Economy+Student;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%64e6f5&size=36&center=true&vCenter=true&width=600&height=100&lines=Software+developer;Digital+Economy+Student;Always+learning+new+things"></a>
 </p>
 
 ## <picture><img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/about.png?raw=true" width = 50px></picture>About me
@@ -10,7 +10,8 @@
 <br><br>
 
 - :school: Student at [TUIT](https://tuit.uz) Faculty of Digital Economy.<span><p></p></span>
-- :computer::chart_with_upwards_trend: I like solving problems with data.<span><p></p></span>
+- :computer::chart_with_upwards_trend: I like solving problems.<span><p></p></span>
+- :mag_right: Interested in big data<span><p></p></span>
 - :nerd_face: Always `learning new things`.<span><p></p></span>
 - :page_with_curl: I’m currently open for a new `job opportunity`, this is [MY RESUME](sd).
 <br>
