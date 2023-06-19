@@ -18,7 +18,7 @@
 
 
 ## <picture> <img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/hw.gif?raw=true" width=60> </picture>Tools that I use
-
+<!-- 
 <p align="center">
 	&emsp;&emsp;&emsp;<a href=""><img img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/python.png?raw=true" width="80px" alt="python"/>&emsp;&emsp;&emsp;
 	<a href=""><img img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/pgsql.png?raw=false" width="70px" alt="pgsql"/></a>&emsp;&emsp;&emsp;
@@ -30,6 +30,7 @@
 	<a href=""><img img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/tableau.png?raw=true" width="80px" alt="tableau"/></a>&emsp;&emsp;&emsp;
 	<a href=""><img img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/ssms.png?raw=true" width="80px" alt="tableau"/></a>&emsp;&emsp;&emsp;
 </p>
+ -->
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
