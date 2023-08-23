@@ -18,7 +18,7 @@
 
 
 ## <picture> <img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/hw.gif?raw=true" width=60> </picture>Tools that I use
-Python, Django, DRF, SQL
+Python, Go, PHP, MySQL, PostgreSQL
 <!-- 
 <p align="center">
 	&emsp;&emsp;&emsp;<a href=""><img img src="https://github.com/hjuraev31/hjuraev31/blob/main/src/python.png?raw=true" width="80px" alt="python"/>&emsp;&emsp;&emsp;
