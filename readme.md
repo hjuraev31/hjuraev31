@@ -12,7 +12,6 @@
 - :school: Student at [TUIT](https://tuit.uz) Faculty of Digital Economy.<span><p></p></span>
 - :computer::chart_with_upwards_trend: I like solving problems.<span><p></p></span>
 - :nerd_face: Always `learning new things`.<span><p></p></span>
-- :page_with_curl: I’m currently open for a new `job opportunity`, this is [MY RESUME](sd).
 <br>
 
 
